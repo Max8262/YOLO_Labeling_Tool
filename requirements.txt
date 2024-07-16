@@ -1,0 +1,7 @@
+mtm
+opencv-python
+numpy
+ultralytics
+pillow
+Multi-Template-Matching
+pandas
